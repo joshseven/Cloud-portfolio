@@ -17,9 +17,9 @@ This is my cloud portfolio page that is using AWS and react.
 - [x] Setup AWS CLI
 - [x] Base HTML and CSS portfolio Page
 - [x] AWS account
-- [ ] IAM roles
+- [x] IAM roles
 - [ ] Route 53 and DNS
-- [ ] Deploy S3
+- [x] Deploy S3
 - [ ] CloudFront and SSL
 - [ ] AWS Lambda setup
 - [ ] SNS setup
