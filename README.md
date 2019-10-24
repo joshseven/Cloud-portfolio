@@ -18,9 +18,10 @@ This is my cloud portfolio page that is using AWS and react.
 - [x] Base HTML and CSS portfolio Page
 - [x] AWS account
 - [x] IAM roles
-- [ ] Route 53 and DNS
+- [ ] Route 53 and DNS(need domain name)
 - [x] Deploy S3
-- [ ] CloudFront and SSL
+- [ ] Add HTTPS to site (need domain name / certificate manager)
+- [ ] CloudFront 
 - [ ] AWS Lambda setup
 - [ ] SNS setup
 - [ ] Code Pipeline
