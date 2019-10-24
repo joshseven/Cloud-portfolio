@@ -12,6 +12,10 @@ This is my cloud portfolio page that is using AWS and react.
 - Google Fonts
 
 
+![](images/architecture_v1.png)
+
+
+
 
 ## To do list
 - [x] Setup AWS CLI
@@ -26,6 +30,3 @@ This is my cloud portfolio page that is using AWS and react.
 - [ ] SNS setup
 - [ ] Code Pipeline
 - [ ] React component
-
-
-![](images/architecture_v1.png)
