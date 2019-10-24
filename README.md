@@ -1,4 +1,4 @@
-# Josh Neves Portfolio
+# Josh Neves Cloud Portfolio
 
 This is my cloud portfolio page that is using AWS and react.
 
