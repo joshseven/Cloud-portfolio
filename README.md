@@ -1,4 +1,4 @@
-# Josh Neves Portfolio
+# Josh Neves Cloud Portfolio
 
 This is my cloud portfolio page that is using AWS and react.
 
@@ -12,6 +12,10 @@ This is my cloud portfolio page that is using AWS and react.
 - Google Fonts
 
 
+![](images/architecture_v1.png)
+
+
+
 
 ## To do list
 - [x] Setup AWS CLI
@@ -20,8 +24,8 @@ This is my cloud portfolio page that is using AWS and react.
 - [x] IAM roles
 - [ ] Route 53 and DNS(need domain name)
 - [x] Deploy S3
-- [ ] Add HTTPS to site (need domain name / certificate manager)
-- [ ] CloudFront 
+- [x] Add HTTPS to site 
+- [x] CloudFront 
 - [ ] AWS Lambda setup
 - [ ] SNS setup
 - [ ] Code Pipeline
