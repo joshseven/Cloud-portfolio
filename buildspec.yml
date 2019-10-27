@@ -1,13 +1,14 @@
-version:0.1
-
-phases:
-  build:
-    commands:
-     - echo Nothing to do yet
-artifacts:
-  files:
-  - index.html
-  - favicon.ico
-  - images/*
-  - Neves_Joshua_Resume.pdf
-  - styles/main.css
+version: 0.2  
+phases:  
+  install:  
+    runtime-versions:  
+      nodejs: 8  
+  build:  
+    commands:  
+      - echo "Nothing to do yet"  
+artifacts:  
+  files:  
+    - index.html  
+    - favicon.ico  
+    - styles/*  
+    - images/*
