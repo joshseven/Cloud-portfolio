@@ -3,8 +3,8 @@ version:0.1
 phases:
   build:
     commands:
-     - echo Nothig to do yet
-Artificats:
+     - echo Nothing to do yet
+artifacts:
   files:
   - index.html
   - favicon.ico
