@@ -27,6 +27,7 @@ This is my cloud portfolio page that is using AWS and react.
 - [x] Add HTTPS to site 
 - [x] CloudFront 
 - [x] CodeBuild configured to connect to github
+- [x] Python Script Created / Tested standalone complete
 - [ ] AWS Lambda setup
 - [ ] SNS setup
 - [ ] Code Pipeline
