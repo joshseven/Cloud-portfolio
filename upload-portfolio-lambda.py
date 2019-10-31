@@ -6,6 +6,9 @@ import mimetypes
 
 
 def lambda_handler(event, context):
+    sns = boto3.resource('sns')
+    topic = sns.Topic(
+        'arn:aws:sns:us-east-1:996890886400:deployPortfolioTopic')
 
     s3 = boto3.resource('s3')
 
@@ -24,5 +27,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Lambda!')
+        'body': json.dumps(topic.publish(Subject="Portfolio Deployed", Message="Portfolio deployed Successfully."))
     }
