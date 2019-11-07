@@ -1,6 +1,6 @@
 # Josh Neves Cloud Portfolio
 
-This is my cloud portfolio page that is using AWS and react.
+This is my cloud portfolio page that is using AWS.
 
 ## Technologies used
 - Git and GitHub
@@ -29,6 +29,6 @@ This is my cloud portfolio page that is using AWS and react.
 - [x] CodeBuild configured to connect to github
 - [x] Python Script Created / Tested standalone complete
 - [x] AWS Lambda setup
-- [ ] SNS setup
+- [x] SNS setup
 - [ ] Code Pipeline
 - [ ] React component
